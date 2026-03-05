@@ -1,1 +1,1 @@
-Цей проект — мій перший крок у Docker та FastAPI. Він автоматично деплоїться на Render
+This project is my first step into Docker and FastAPI. It automatically deploys to Render.
